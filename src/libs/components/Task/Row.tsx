@@ -5,7 +5,7 @@ interface IProps extends ITask {
   title: string,
 }
 
-export default function ({id, title, text}: IProps) {
+export default function ({title, text}: IProps) {
   return (
     <Row>
         <span>{title}:</span> <h4>{text}</h4>
