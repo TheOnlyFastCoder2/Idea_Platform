@@ -1,5 +1,5 @@
 сайт:[ idea-platform-cyan.vercel.app](https://idea-platform-cyan.vercel.app/) \
-файл:[ToDoList](https://raw.githubusercontent.com/TheOnlyFastCoder2/Idea_Platform/refs/heads/main/toDoList.txt)
+[ToDoList](https://github.com/TheOnlyFastCoder2/Idea_Platform/blob/main/toDoList.txt)
 
 Проект — это тестовое задание для управления задачами, созданное с использованием React и MobX. Оно позволяет пользователям легко добавлять, редактировать, удалять и сортировать задачи по различным статусам: "К выполнению", "В процессе", "На проверке" и "Выполнено". Также предусмотрена возможность скачивания и загрузки списка задач.
 
