@@ -16,7 +16,7 @@ export default observer(function () {
 const TODOList = styled.div`
   display: grid;
   gap: 40px;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
   margin-top: 58px;
 `;
 

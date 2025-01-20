@@ -38,5 +38,6 @@ const ModalWin = styled.div`
   left: 0; top: 0;
   width: 100%;
   height: 100%;
+  z-index: 9999;
   background-color: rgb(0, 0, 0, 0.6);
 `;

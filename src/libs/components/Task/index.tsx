@@ -89,7 +89,6 @@ const TaskStyled = styled.div`
   display: flex;
   flex-direction: column;
   gap: 8px;
-  width: 398px;
   width: 100%;
   border-radius: 10px;
   background-color: #393939;
