@@ -33,4 +33,4 @@ npm run dev
 - **react-dom**: Библиотека, обеспечивающая взаимодействие React с DOM, позволяющая рендерить компоненты в браузере.
 - **styled-components**: Библиотека для стилизации компонентов с использованием CSS в JavaScript, позволяющая создавать стили, привязанные к компонентам.
 
-![Превью TodoList](https://github.com/TheOnlyFastCoder2/Idea_Platform/blob/main/screens/image.png)
+<img src="./screens/Idea_Platform_video.gif" width="100%"/>
